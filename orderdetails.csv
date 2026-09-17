@@ -1,0 +1,201 @@
+﻿Order_ID,Date,Cust_First,Cust_Last,Customer_Company,Sales_Rep,Product,Qty,Price,Line_Total,Order_Status
+1,4/6/2026 11:47,James,Dalton,Alpha Group,Alexander,Green Tea,20,15.5,310,Closed
+2,4/6/2026 12:47,James,Dalton,Alpha Group,Anne,Ravioli,18,15.5,279,New
+3,4/6/2026 13:47,James,Dalton,Alpha Group,Laura,Bread,11,15.5,170.5,Shipped
+4,4/6/2026 14:47,James,Dalton,Alpha Group,Robert,Green Tea,40,15.5,620,Closed
+5,4/6/2026 15:47,James,Dalton,Alpha Group,Michael,Chef Anton Gumbo,10,15.5,155,Invoiced
+6,4/6/2026 16:47,James,Dalton,Alpha Group,Steven,Shrimp,16,15.5,248,New
+7,4/6/2026 17:47,James,Dalton,Alpha Group,Mariya,Chai,7,15.5,108.5,New
+8,4/6/2026 18:47,James,Dalton,Alpha Group,Jan,Alice Mutton,43,15.5,666.5,Shipped
+9,4/6/2026 19:47,James,Dalton,Alpha Group,Andrew,Shrimp,49,15.5,759.5,Closed
+10,4/6/2026 20:47,James,Dalton,Alpha Group,Nancy,Coffee,21,15.5,325.5,New
+11,4/6/2026 1:47,Anna,Smith,Beta Corp,Alexander,Tofu,29,15.5,449.5,Closed
+12,4/6/2026 3:47,Anna,Smith,Beta Corp,Anne,Chai,48,15.5,744,Invoiced
+13,4/6/2026 5:47,Anna,Smith,Beta Corp,Laura,Dried Fruit,15,15.5,232.5,Shipped
+14,4/6/2026 7:47,Anna,Smith,Beta Corp,Robert,Aniseed Syrup,16,15.5,248,Invoiced
+15,4/6/2026 9:47,Anna,Smith,Beta Corp,Michael,Apples,44,15.5,682,New
+16,4/6/2026 11:47,Anna,Smith,Beta Corp,Steven,Tofu,33,15.5,511.5,Closed
+17,4/6/2026 13:47,Anna,Smith,Beta Corp,Mariya,Aniseed Syrup,2,15.5,31,Shipped
+18,4/6/2026 15:47,Anna,Smith,Beta Corp,Jan,Ravioli,32,15.5,496,Closed
+19,4/6/2026 17:47,Anna,Smith,Beta Corp,Andrew,Alice Mutton,30,15.5,465,Closed
+20,4/6/2026 19:47,Anna,Smith,Beta Corp,Nancy,Ravioli,10,15.5,155,New
+21,4/5/2026 15:47,Bill,Jobson,Gamma Inc,Alexander,Chocolate,24,15.5,372,New
+22,4/5/2026 18:47,Bill,Jobson,Gamma Inc,Anne,Apples,17,15.5,263.5,Shipped
+23,4/5/2026 21:47,Bill,Jobson,Gamma Inc,Laura,Boston Crab Meat,42,15.5,651,New
+24,4/6/2026 0:47,Bill,Jobson,Gamma Inc,Robert,Apples,23,15.5,356.5,Invoiced
+25,4/6/2026 3:47,Bill,Jobson,Gamma Inc,Michael,Alice Mutton,44,15.5,682,Invoiced
+26,4/6/2026 6:47,Bill,Jobson,Gamma Inc,Steven,Chocolate,39,15.5,604.5,Shipped
+27,4/6/2026 9:47,Bill,Jobson,Gamma Inc,Mariya,Boston Crab Meat,19,15.5,294.5,Shipped
+28,4/6/2026 12:47,Bill,Jobson,Gamma Inc,Jan,Chai,40,15.5,620,New
+29,4/6/2026 15:47,Bill,Jobson,Gamma Inc,Andrew,Ravioli,24,15.5,372,Closed
+30,4/6/2026 18:47,Bill,Jobson,Gamma Inc,Nancy,Coffee,4,15.5,62,Shipped
+31,4/5/2026 5:47,Lee,Patterson,Delta Ltd,Alexander,Hot Sauce,4,15.5,62,Shipped
+32,4/5/2026 9:47,Lee,Patterson,Delta Ltd,Anne,Chang,37,15.5,573.5,Closed
+33,4/5/2026 13:47,Lee,Patterson,Delta Ltd,Laura,Chef Anton Gumbo,27,15.5,418.5,Closed
+34,4/5/2026 17:47,Lee,Patterson,Delta Ltd,Robert,Chocolate,50,15.5,775,New
+35,4/5/2026 21:47,Lee,Patterson,Delta Ltd,Michael,Chocolate,1,15.5,15.5,Invoiced
+36,4/6/2026 1:47,Lee,Patterson,Delta Ltd,Steven,Chef Anton Gumbo,36,15.5,558,Closed
+37,4/6/2026 5:47,Lee,Patterson,Delta Ltd,Mariya,Chai,10,15.5,155,Shipped
+38,4/6/2026 9:47,Lee,Patterson,Delta Ltd,Jan,Shrimp,36,15.5,558,Closed
+39,4/6/2026 13:47,Lee,Patterson,Delta Ltd,Andrew,Alice Mutton,41,15.5,635.5,New
+40,4/6/2026 17:47,Lee,Patterson,Delta Ltd,Nancy,Alice Mutton,20,15.5,310,New
+41,4/4/2026 19:47,Lucia,Vargas,Sigma Co,Alexander,Milk,43,15.5,666.5,Closed
+42,4/5/2026 0:47,Lucia,Vargas,Sigma Co,Anne,Cheese,20,15.5,310,New
+43,4/5/2026 5:47,Lucia,Vargas,Sigma Co,Laura,Coffee,32,15.5,496,Closed
+44,4/5/2026 10:47,Lucia,Vargas,Sigma Co,Robert,Dried Fruit,29,15.5,449.5,Closed
+45,4/5/2026 15:47,Lucia,Vargas,Sigma Co,Michael,Cheese,44,15.5,682,New
+46,4/5/2026 20:47,Lucia,Vargas,Sigma Co,Steven,Ravioli,35,15.5,542.5,Invoiced
+47,4/6/2026 1:47,Lucia,Vargas,Sigma Co,Mariya,Hot Sauce,22,15.5,341,Invoiced
+48,4/6/2026 6:47,Lucia,Vargas,Sigma Co,Jan,Aniseed Syrup,33,15.5,511.5,Closed
+49,4/6/2026 11:47,Lucia,Vargas,Sigma Co,Andrew,Boston Crab Meat,35,15.5,542.5,Shipped
+50,4/6/2026 16:47,Lucia,Vargas,Sigma Co,Nancy,Chocolate,18,15.5,279,Shipped
+51,4/4/2026 9:47,Wei,Zhu,Omega Tech,Alexander,Shrimp,49,15.5,759.5,Closed
+52,4/4/2026 15:47,Wei,Zhu,Omega Tech,Anne,Boston Crab Meat,37,15.5,573.5,Invoiced
+53,4/4/2026 21:47,Wei,Zhu,Omega Tech,Laura,Chef Anton Gumbo,17,15.5,263.5,Shipped
+54,4/5/2026 3:47,Wei,Zhu,Omega Tech,Robert,Alice Mutton,33,15.5,511.5,Invoiced
+55,4/5/2026 9:47,Wei,Zhu,Omega Tech,Michael,Chai,30,15.5,465,Shipped
+56,4/5/2026 15:47,Wei,Zhu,Omega Tech,Steven,Chef Anton Gumbo,18,15.5,279,New
+57,4/5/2026 21:47,Wei,Zhu,Omega Tech,Mariya,Bread,47,15.5,728.5,Closed
+58,4/6/2026 3:47,Wei,Zhu,Omega Tech,Jan,Boston Crab Meat,43,15.5,666.5,Invoiced
+59,4/6/2026 9:47,Wei,Zhu,Omega Tech,Andrew,Coffee,2,15.5,31,Closed
+60,4/6/2026 15:47,Wei,Zhu,Omega Tech,Nancy,Chai,29,15.5,449.5,Invoiced
+61,4/3/2026 23:47,Carlos,Gomez,Zeta Solutions,Alexander,Bread,23,15.5,356.5,Invoiced
+62,4/4/2026 6:47,Carlos,Gomez,Zeta Solutions,Anne,Milk,7,15.5,108.5,Invoiced
+63,4/4/2026 13:47,Carlos,Gomez,Zeta Solutions,Laura,Ravioli,45,15.5,697.5,Closed
+64,4/4/2026 20:47,Carlos,Gomez,Zeta Solutions,Robert,Ravioli,29,15.5,449.5,Invoiced
+65,4/5/2026 3:47,Carlos,Gomez,Zeta Solutions,Michael,Tofu,9,15.5,139.5,Shipped
+66,4/5/2026 10:47,Carlos,Gomez,Zeta Solutions,Steven,Hot Sauce,12,15.5,186,Invoiced
+67,4/5/2026 17:47,Carlos,Gomez,Zeta Solutions,Mariya,Aniseed Syrup,33,15.5,511.5,Shipped
+68,4/6/2026 0:47,Carlos,Gomez,Zeta Solutions,Jan,Ravioli,33,15.5,511.5,Shipped
+69,4/6/2026 7:47,Carlos,Gomez,Zeta Solutions,Andrew,Cheese,38,15.5,589,Shipped
+70,4/6/2026 14:47,Carlos,Gomez,Zeta Solutions,Nancy,Chocolate,8,15.5,124,Shipped
+71,4/3/2026 13:47,Erik,Olsen,Theta Retail,Alexander,Milk,37,15.5,573.5,Invoiced
+72,4/3/2026 21:47,Erik,Olsen,Theta Retail,Anne,Bread,32,15.5,496,New
+73,4/4/2026 5:47,Erik,Olsen,Theta Retail,Laura,Salmon,12,15.5,186,Shipped
+74,4/4/2026 13:47,Erik,Olsen,Theta Retail,Robert,Bread,34,15.5,527,Shipped
+75,4/4/2026 21:47,Erik,Olsen,Theta Retail,Michael,Green Tea,23,15.5,356.5,New
+76,4/5/2026 5:47,Erik,Olsen,Theta Retail,Steven,Ravioli,28,15.5,434,Invoiced
+77,4/5/2026 13:47,Erik,Olsen,Theta Retail,Mariya,Coffee,48,15.5,744,Invoiced
+78,4/5/2026 21:47,Erik,Olsen,Theta Retail,Jan,Alice Mutton,47,15.5,728.5,Closed
+79,4/6/2026 5:47,Erik,Olsen,Theta Retail,Andrew,Salmon,2,15.5,31,Closed
+80,4/6/2026 13:47,Erik,Olsen,Theta Retail,Nancy,Pears,15,15.5,232.5,Invoiced
+81,4/3/2026 3:47,Elena,Bruno,Kappa Logistics,Alexander,Ravioli,14,15.5,217,New
+82,4/3/2026 12:47,Elena,Bruno,Kappa Logistics,Anne,Coffee,46,15.5,713,Invoiced
+83,4/3/2026 21:47,Elena,Bruno,Kappa Logistics,Laura,Salmon,37,15.5,573.5,Shipped
+84,4/4/2026 6:47,Elena,Bruno,Kappa Logistics,Robert,Chef Anton Gumbo,4,15.5,62,Shipped
+85,4/4/2026 15:47,Elena,Bruno,Kappa Logistics,Michael,Chef Anton Gumbo,25,15.5,387.5,Invoiced
+86,4/5/2026 0:47,Elena,Bruno,Kappa Logistics,Steven,Apples,46,15.5,713,Closed
+87,4/5/2026 9:47,Elena,Bruno,Kappa Logistics,Mariya,Chocolate,7,15.5,108.5,Closed
+88,4/5/2026 18:47,Elena,Bruno,Kappa Logistics,Jan,Cheese,8,15.5,124,Shipped
+89,4/6/2026 3:47,Elena,Bruno,Kappa Logistics,Andrew,Bread,44,15.5,682,New
+90,4/6/2026 12:47,Elena,Bruno,Kappa Logistics,Nancy,Alice Mutton,29,15.5,449.5,New
+91,4/2/2026 17:47,Yuki,Sato,Iota Manufacturing,Alexander,Coffee,14,15.5,217,Shipped
+92,4/3/2026 3:47,Yuki,Sato,Iota Manufacturing,Anne,Alice Mutton,31,15.5,480.5,Invoiced
+93,4/3/2026 13:47,Yuki,Sato,Iota Manufacturing,Laura,Ravioli,39,15.5,604.5,Shipped
+94,4/3/2026 23:47,Yuki,Sato,Iota Manufacturing,Robert,Chocolate,10,15.5,155,Invoiced
+95,4/4/2026 9:47,Yuki,Sato,Iota Manufacturing,Michael,Green Tea,6,15.5,93,Invoiced
+96,4/4/2026 19:47,Yuki,Sato,Iota Manufacturing,Steven,Dried Fruit,41,15.5,635.5,Closed
+97,4/5/2026 5:47,Yuki,Sato,Iota Manufacturing,Mariya,Tofu,15,15.5,232.5,Shipped
+98,4/5/2026 15:47,Yuki,Sato,Iota Manufacturing,Jan,Hot Sauce,3,15.5,46.5,Shipped
+99,4/6/2026 1:47,Yuki,Sato,Iota Manufacturing,Andrew,Coffee,22,15.5,341,Invoiced
+100,4/6/2026 11:47,Yuki,Sato,Iota Manufacturing,Nancy,Aniseed Syrup,21,15.5,325.5,New
+101,4/2/2026 7:47,Jack,Riley,Blue Sky,Alexander,Coffee,23,15.5,356.5,Invoiced
+102,4/2/2026 18:47,Jack,Riley,Blue Sky,Anne,Cheese,25,15.5,387.5,Closed
+103,4/3/2026 5:47,Jack,Riley,Blue Sky,Laura,Ravioli,14,15.5,217,New
+104,4/3/2026 16:47,Jack,Riley,Blue Sky,Robert,Chang,24,15.5,372,Shipped
+105,4/4/2026 3:47,Jack,Riley,Blue Sky,Michael,Hot Sauce,27,15.5,418.5,New
+106,4/4/2026 14:47,Jack,Riley,Blue Sky,Steven,Pears,50,15.5,775,Shipped
+107,4/5/2026 1:47,Jack,Riley,Blue Sky,Mariya,Green Tea,2,15.5,31,Closed
+108,4/5/2026 12:47,Jack,Riley,Blue Sky,Jan,Chai,48,15.5,744,Shipped
+109,4/5/2026 23:47,Jack,Riley,Blue Sky,Andrew,Hot Sauce,17,15.5,263.5,New
+110,4/6/2026 10:47,Jack,Riley,Blue Sky,Nancy,Chang,14,15.5,217,Shipped
+111,4/1/2026 21:47,Marie,Dubois,Green Field,Alexander,Hot Sauce,31,15.5,480.5,Invoiced
+112,4/2/2026 9:47,Marie,Dubois,Green Field,Anne,Chocolate,40,15.5,620,Invoiced
+113,4/2/2026 21:47,Marie,Dubois,Green Field,Laura,Chef Anton Gumbo,20,15.5,310,Invoiced
+114,4/3/2026 9:47,Marie,Dubois,Green Field,Robert,Tofu,31,15.5,480.5,Closed
+115,4/3/2026 21:47,Marie,Dubois,Green Field,Michael,Shrimp,9,15.5,139.5,Invoiced
+116,4/4/2026 9:47,Marie,Dubois,Green Field,Steven,Tofu,13,15.5,201.5,Closed
+117,4/4/2026 21:47,Marie,Dubois,Green Field,Mariya,Hot Sauce,20,15.5,310,Shipped
+118,4/5/2026 9:47,Marie,Dubois,Green Field,Jan,Ravioli,31,15.5,480.5,Invoiced
+119,4/5/2026 21:47,Marie,Dubois,Green Field,Andrew,Dried Fruit,35,15.5,542.5,Invoiced
+120,4/6/2026 9:47,Marie,Dubois,Green Field,Nancy,Chai,38,15.5,589,Invoiced
+121,4/1/2026 11:47,Mateo,Silva,Red River,Alexander,Green Tea,43,15.5,666.5,Invoiced
+122,4/2/2026 0:47,Mateo,Silva,Red River,Anne,Chocolate,11,15.5,170.5,Shipped
+123,4/2/2026 13:47,Mateo,Silva,Red River,Laura,Milk,43,15.5,666.5,Invoiced
+124,4/3/2026 2:47,Mateo,Silva,Red River,Robert,Pears,3,15.5,46.5,Invoiced
+125,4/3/2026 15:47,Mateo,Silva,Red River,Michael,Salmon,12,15.5,186,Shipped
+126,4/4/2026 4:47,Mateo,Silva,Red River,Steven,Chai,13,15.5,201.5,Shipped
+127,4/4/2026 17:47,Mateo,Silva,Red River,Mariya,Aniseed Syrup,26,15.5,403,Closed
+128,4/5/2026 6:47,Mateo,Silva,Red River,Jan,Cheese,47,15.5,728.5,Closed
+129,4/5/2026 19:47,Mateo,Silva,Red River,Andrew,Hot Sauce,23,15.5,356.5,Invoiced
+130,4/6/2026 8:47,Mateo,Silva,Red River,Nancy,Aniseed Syrup,33,15.5,511.5,Invoiced
+131,4/1/2026 1:47,Lars,Bakker,White Mountain,Alexander,Hot Sauce,46,15.5,713,Invoiced
+132,4/1/2026 15:47,Lars,Bakker,White Mountain,Anne,Hot Sauce,1,15.5,15.5,Closed
+133,4/2/2026 5:47,Lars,Bakker,White Mountain,Laura,Chef Anton Gumbo,29,15.5,449.5,Closed
+134,4/2/2026 19:47,Lars,Bakker,White Mountain,Robert,Alice Mutton,8,15.5,124,New
+135,4/3/2026 9:47,Lars,Bakker,White Mountain,Michael,Salmon,35,15.5,542.5,Invoiced
+136,4/3/2026 23:47,Lars,Bakker,White Mountain,Steven,Alice Mutton,3,15.5,46.5,New
+137,4/4/2026 13:47,Lars,Bakker,White Mountain,Mariya,Alice Mutton,39,15.5,604.5,Closed
+138,4/5/2026 3:47,Lars,Bakker,White Mountain,Jan,Coffee,7,15.5,108.5,Invoiced
+139,4/5/2026 17:47,Lars,Bakker,White Mountain,Andrew,Pears,23,15.5,356.5,Invoiced
+140,4/6/2026 7:47,Lars,Bakker,White Mountain,Nancy,Chai,31,15.5,480.5,Invoiced
+141,3/31/2026 15:47,Dmitri,Ivanov,Silver Star,Alexander,Chocolate,6,15.5,93,Invoiced
+142,4/1/2026 6:47,Dmitri,Ivanov,Silver Star,Anne,Green Tea,43,15.5,666.5,Shipped
+143,4/1/2026 21:47,Dmitri,Ivanov,Silver Star,Laura,Tofu,22,15.5,341,New
+144,4/2/2026 12:47,Dmitri,Ivanov,Silver Star,Robert,Coffee,5,15.5,77.5,Invoiced
+145,4/3/2026 3:47,Dmitri,Ivanov,Silver Star,Michael,Ravioli,47,15.5,728.5,Shipped
+146,4/3/2026 18:47,Dmitri,Ivanov,Silver Star,Steven,Dried Fruit,2,15.5,31,Invoiced
+147,4/4/2026 9:47,Dmitri,Ivanov,Silver Star,Mariya,Milk,15,15.5,232.5,Shipped
+148,4/5/2026 0:47,Dmitri,Ivanov,Silver Star,Jan,Salmon,20,15.5,310,New
+149,4/5/2026 15:47,Dmitri,Ivanov,Silver Star,Andrew,Apples,32,15.5,496,Invoiced
+150,4/6/2026 6:47,Dmitri,Ivanov,Silver Star,Nancy,Hot Sauce,17,15.5,263.5,Invoiced
+151,3/31/2026 5:47,Ken,Tanaka,Golden Gate,Alexander,Apples,24,15.5,372,Closed
+152,3/31/2026 21:47,Ken,Tanaka,Golden Gate,Anne,Dried Fruit,7,15.5,108.5,Shipped
+153,4/1/2026 13:47,Ken,Tanaka,Golden Gate,Laura,Green Tea,25,15.5,387.5,New
+154,4/2/2026 5:47,Ken,Tanaka,Golden Gate,Robert,Boston Crab Meat,3,15.5,46.5,Closed
+155,4/2/2026 21:47,Ken,Tanaka,Golden Gate,Michael,Milk,14,15.5,217,Shipped
+156,4/3/2026 13:47,Ken,Tanaka,Golden Gate,Steven,Cheese,15,15.5,232.5,Closed
+157,4/4/2026 5:47,Ken,Tanaka,Golden Gate,Mariya,Chef Anton Gumbo,26,15.5,403,Closed
+158,4/4/2026 21:47,Ken,Tanaka,Golden Gate,Jan,Apples,42,15.5,651,Invoiced
+159,4/5/2026 13:47,Ken,Tanaka,Golden Gate,Andrew,Hot Sauce,50,15.5,775,Shipped
+160,4/6/2026 5:47,Ken,Tanaka,Golden Gate,Nancy,Alice Mutton,15,15.5,232.5,Closed
+161,3/30/2026 19:47,Liam,O���Connor,Iron Works,Alexander,Chang,14,15.5,217,Closed
+162,3/31/2026 12:47,Liam,O���Connor,Iron Works,Anne,Chai,45,15.5,697.5,New
+163,4/1/2026 5:47,Liam,O���Connor,Iron Works,Laura,Chai,45,15.5,697.5,Closed
+164,4/1/2026 22:47,Liam,O���Connor,Iron Works,Robert,Shrimp,50,15.5,775,Closed
+165,4/2/2026 15:47,Liam,O���Connor,Iron Works,Michael,Apples,36,15.5,558,Shipped
+166,4/3/2026 8:47,Liam,O���Connor,Iron Works,Steven,Chang,30,15.5,465,Invoiced
+167,4/4/2026 1:47,Liam,O���Connor,Iron Works,Mariya,Chocolate,17,15.5,263.5,Invoiced
+168,4/4/2026 18:47,Liam,O���Connor,Iron Works,Jan,Pears,4,15.5,62,Closed
+169,4/5/2026 11:47,Liam,O���Connor,Iron Works,Andrew,Salmon,4,15.5,62,Closed
+170,4/6/2026 4:47,Liam,O���Connor,Iron Works,Nancy,Aniseed Syrup,43,15.5,666.5,Invoiced
+171,3/30/2026 9:47,Hans,M��ller,Steel Mill,Alexander,Apples,17,15.5,263.5,Shipped
+172,3/31/2026 3:47,Hans,M��ller,Steel Mill,Anne,Cheese,8,15.5,124,Invoiced
+173,3/31/2026 21:47,Hans,M��ller,Steel Mill,Laura,Coffee,10,15.5,155,Shipped
+174,4/1/2026 15:47,Hans,M��ller,Steel Mill,Robert,Apples,34,15.5,527,Shipped
+175,4/2/2026 9:47,Hans,M��ller,Steel Mill,Michael,Chang,26,15.5,403,Invoiced
+176,4/3/2026 3:47,Hans,M��ller,Steel Mill,Steven,Alice Mutton,42,15.5,651,Closed
+177,4/3/2026 21:47,Hans,M��ller,Steel Mill,Mariya,Chang,34,15.5,527,Closed
+178,4/4/2026 15:47,Hans,M��ller,Steel Mill,Jan,Alice Mutton,38,15.5,589,New
+179,4/5/2026 9:47,Hans,M��ller,Steel Mill,Andrew,Chang,2,15.5,31,Closed
+180,4/6/2026 3:47,Hans,M��ller,Steel Mill,Nancy,Dried Fruit,16,15.5,248,New
+181,3/29/2026 23:47,Aisha,Khan,Silk Road,Alexander,Aniseed Syrup,3,15.5,46.5,Shipped
+182,3/30/2026 18:47,Aisha,Khan,Silk Road,Anne,Dried Fruit,36,15.5,558,New
+183,3/31/2026 13:47,Aisha,Khan,Silk Road,Laura,Aniseed Syrup,11,15.5,170.5,Closed
+184,4/1/2026 8:47,Aisha,Khan,Silk Road,Robert,Shrimp,12,15.5,186,New
+185,4/2/2026 3:47,Aisha,Khan,Silk Road,Michael,Apples,13,15.5,201.5,Invoiced
+186,4/2/2026 22:47,Aisha,Khan,Silk Road,Steven,Chai,32,15.5,496,Closed
+187,4/3/2026 17:47,Aisha,Khan,Silk Road,Mariya,Chang,25,15.5,387.5,Shipped
+188,4/4/2026 12:47,Aisha,Khan,Silk Road,Jan,Milk,27,15.5,418.5,Closed
+189,4/5/2026 7:47,Aisha,Khan,Silk Road,Andrew,Hot Sauce,25,15.5,387.5,Invoiced
+190,4/6/2026 2:47,Aisha,Khan,Silk Road,Nancy,Chef Anton Gumbo,41,15.5,635.5,Closed
+191,3/29/2026 13:47,Zenebe,Abebe,Northern Star,Alexander,Boston Crab Meat,41,15.5,635.5,Invoiced
+192,3/30/2026 9:47,Zenebe,Abebe,Northern Star,Anne,Ravioli,49,15.5,759.5,Closed
+193,3/31/2026 5:47,Zenebe,Abebe,Northern Star,Laura,Chai,24,15.5,372,Closed
+194,4/1/2026 1:47,Zenebe,Abebe,Northern Star,Robert,Bread,14,15.5,217,Shipped
+195,4/1/2026 21:47,Zenebe,Abebe,Northern Star,Michael,Salmon,25,15.5,387.5,New
+196,4/2/2026 17:47,Zenebe,Abebe,Northern Star,Steven,Boston Crab Meat,38,15.5,589,New
+197,4/3/2026 13:47,Zenebe,Abebe,Northern Star,Mariya,Ravioli,11,15.5,170.5,Closed
+198,4/4/2026 9:47,Zenebe,Abebe,Northern Star,Jan,Coffee,10,15.5,155,Invoiced
+199,4/5/2026 5:47,Zenebe,Abebe,Northern Star,Andrew,Dried Fruit,9,15.5,139.5,New
+200,4/6/2026 1:47,Zenebe,Abebe,Northern Star,Nancy,Tofu,11,15.5,170.5,New
